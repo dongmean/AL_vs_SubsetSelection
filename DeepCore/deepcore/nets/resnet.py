@@ -306,4 +306,4 @@ def ResNet101(channel: int, num_classes: int, im_size, record_embedding: bool = 
 
 def ResNet152(channel: int, num_classes: int, im_size, record_embedding: bool = False, no_grad: bool = False,
               pretrained: bool = False):
-    return ResNet("resnet152", channel, num_classes, im_size, record_embedding, no_grad, pretrain
+    return ResNet("resnet152", channel, num_classes, im_size, record_embedding, no_grad, pretrained)

@@ -29,7 +29,8 @@ python3 main.py --gpu 0 --data_path=$your_data_folder --dataset 'ImageNet30' --n
                         --method 'Uncertainty' --uncertainty 'Margin' --n-query 780 --epochs 200 --batch-size 128
 ```
 
-### Existing Subset Selection
+
+### Existing Subset Selection Algorithms
 ###: Uniform, Uncertainty (Margin), Forgetting, GraNd, kCenterGreedy, GraphCut, Glister, etc
 
 Go to the DeepCore/ folder

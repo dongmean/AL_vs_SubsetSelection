@@ -38,6 +38,7 @@ Go to the DeepCore/ folder
 ```bash
 python3 main.py --data_path=$your_data_folder --datset $dataset --model $arch --selection $selection_algorithm --fraction $target_fraction
 ```
+\*$selection_algorithm must be in ['Uniform', 'Uncertainty', 'Forgetting', 'GraNd', ...], each of which is a class name in deep_core/methods/~~.py
 
 # Requirements
 

@@ -31,7 +31,7 @@ python3 main.py --gpu 0 --data_path=$your_data_folder --dataset 'ImageNet30' --n
 
 
 ### Existing Subset Selection Algorithms
-###: Uniform, Uncertainty (Margin), Forgetting, GraNd, kCenterGreedy, GraphCut, Glister, etc
+### : Uniform, Uncertainty (Margin), Forgetting, GraNd, kCenterGreedy, GraphCut, Glister, etc
 
 Go to the DeepCore/ folder
 

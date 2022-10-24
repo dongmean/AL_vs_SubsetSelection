@@ -57,5 +57,5 @@ To be available soon
 
 # References
 
-* DeepCore library \[[code](https://github.com/PatrickZH/DeepCore)\] : Active Learning for Convolutional Neural Networks: A Core-Set Approach, Sener et al. 2018 ICLR
-* AL library \[[code](https://github.com/PatrickZH/DeepCore)\] : 
+* DeepCore library \[[code](https://github.com/PatrickZH/DeepCore)\] : DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning, Guo et al. 2022.
+* AL library \[[code](https://github.com/kaist-dmlab/MQNet)\] : Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning, Park et al. NeurIPS 2022.

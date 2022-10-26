@@ -5,7 +5,7 @@ by [Dongmin Park](https://scholar.google.com/citations?user=4xXYQl0AAAAJ&hl=ko)<
 <sup>1</sup> KAIST, <sup>2</sup> University of Wisconsin-Madison
 
 * **`Oct 21, 2022`:** **Our work is accepted to HITY Workshop at NeurIPS 2022.**
-* **To be published soon.**
+* **`Oct 25, 2022`:** **Our work is publicly available at [pdf](https://arxiv.org/pdf/2210.07805.pdf).**
 
 # How to run
 
@@ -55,7 +55,13 @@ ptflops: 0.6.9
 
 # Citation
 
-To be available soon
+```
+@inproceedings{park2022active,
+  title={Active Learning is a Strong Baseline for Data Subset Selection},
+  author={Park, Dongmin and Papailiopoulos, Dimitris and Lee, Kangwook},
+  booktitle={Has it Trained Yet? NeurIPS 2022 Workshop}
+}
+```
 
 # References
 

@@ -5,7 +5,7 @@ by [Dongmin Park](https://scholar.google.com/citations?user=4xXYQl0AAAAJ&hl=ko)<
 <sup>1</sup> KAIST, <sup>2</sup> University of Wisconsin-Madison
 
 * **`Oct 21, 2022`:** **Our work is accepted to HITY Workshop at NeurIPS 2022.**
-* **`Oct 25, 2022`:** **Our work is publicly available at [pdf](https://arxiv.org/pdf/2210.07805.pdf).**
+* **`Oct 25, 2022`:** **Our work is publicly available at [link](https://arxiv.org/pdf/2210.07805.pdf).**
 
 # How to run
 

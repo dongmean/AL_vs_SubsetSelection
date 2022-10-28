@@ -1,10 +1,8 @@
 from .kcentergreedy import kCenterGreedy
 import torch
 
-
 # Acknowlegement to:
 # https://github.com/sharat29ag/CDAL
-
 
 class ContextualDiversity(kCenterGreedy):
     def __init__(self, dst_train, args, fraction=0.5, random_seed=None, epochs=200,

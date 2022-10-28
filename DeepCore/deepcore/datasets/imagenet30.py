@@ -3,7 +3,7 @@ import torchvision.transforms as T
 from torch.utils.data import Dataset, DataLoader
 from torchvision.datasets import ImageFolder
 from torch import tensor, long
-from randaugment import *
+from .randaugment import *
 
 class MyImageNet30(Dataset):
     def __init__(self, file_path, transform=None, resolution=224):

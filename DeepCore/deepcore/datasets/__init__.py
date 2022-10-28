@@ -7,4 +7,5 @@ from .mnist import *
 from .qmnist import *
 from .svhn import *
 from .tinyimagenet import *
+from .randaugment import *
 #from .cifar4_LTL import *

@@ -181,4 +181,3 @@ class kCenterGreedy(EarlyTrain):
                                                random_seed=self.random_seed,
                                                already_selected=self.already_selected, print_freq=self.args.print_freq)
         return {"indices": selection_result}, warmup_test_acc
-                                                                                                                                                                                                   

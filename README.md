@@ -1,8 +1,8 @@
 # Active Learning is a Strong Baseline for Data Subset Selection (NeurIPS 2022 HITY Workshop, [PDF](https://arxiv.org/pdf/2210.07805.pdf))
 
-by [Dongmin Park](https://scholar.google.com/citations?user=4xXYQl0AAAAJ&hl=ko)<sup>1</sup>, [Dimitris Papailiopoulos](https://scholar.google.com/citations?user=hYi6i9sAAAAJ&hl=ko)<sup>2</sup>, [Kangwook Lee](https://scholar.google.com/citations?user=sCEl8r-n5VEC&hl=ko&oi=ao)<sup>2</sup>.
+by [Dongmin Park](https://scholar.google.com/citations?user=4xXYQl0AAAAJ&hl=ko)<sup>1</sup>, [Dimitris Papailiopoulos](https://scholar.google.com/citations?user=hYi6i9sAAAAJ&hl=ko)<sup>2</sup>, [Kangwook Lee](https://scholar.google.com/citations?user=sCEl8r-n5VEC&hl=ko&oi=ao)<sup>2, 3</sup>.
 
-<sup>1</sup> KAIST, <sup>2</sup> University of Wisconsin-Madison
+<sup>1</sup> KAIST, <sup>2</sup> University of Wisconsin-Madison, <sup>3</sup> Krafton
 
 * **`Oct 21, 2022`:** **Our work is accepted to [HITY Workshop](https://hity-workshop.github.io/NeurIPS2022/) at NeurIPS 2022.**
 
